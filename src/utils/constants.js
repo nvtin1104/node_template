@@ -3,6 +3,5 @@ export const WHITELIST_DOMAINS = [
     'https://beeai.ptepathway.com',
     'http://14.225.205.69:8000',
     'http://14.225.205.69'
-    // ...
   ];
   
